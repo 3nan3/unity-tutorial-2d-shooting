@@ -20,8 +20,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4210598574332642}
   - component: {fileID: 61401612997987670}
-  - component: {fileID: 114999255652215384}
-  m_Layer: 0
+  - component: {fileID: 114439619084931728}
+  m_Layer: 12
   m_Name: DestroyArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66,7 +66,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 9, y: 7}
   m_EdgeRadius: 0
---- !u!114 &114999255652215384
+--- !u!114 &114439619084931728
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
